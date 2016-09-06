@@ -17,8 +17,7 @@ public class DeberTravis {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("Bienvenido a Java ");
-        System.out.println("JAVA ES FÀCIL");
+        System.out.println("ESTA MAMTERIA ES DE INGENIERIA DE SOFT II");
     }
     
 }
