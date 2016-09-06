@@ -17,7 +17,7 @@ public class DeberTravis {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("ESTA MAMTERIA ES DE INGENIERIA DE SOFT II");
+        System.out.println("Docente ingeniero Diego Toala");
     }
     
 }
