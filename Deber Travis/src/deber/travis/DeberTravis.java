@@ -18,6 +18,7 @@ public class DeberTravis {
         // TODO code application logic here
         
         System.out.println("Bienvenido a Java ");
+        System.out.println("JAVA ES FÀCIL");
     }
     
 }
